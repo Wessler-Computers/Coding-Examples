@@ -1,6 +1,6 @@
 # Coding examples.
 
-This repository is to provide the viewer examples of the code I have written.
+This repository is to provide the viewer examples of the code I have written. Below is a synopsis of each script here, what it is meant to do, and any additional details for each.
 
 # Powershell
 ## Server_Deployment.ps1
