@@ -47,3 +47,7 @@ Here is where the script ends. Fully functional as-is, however there were goals 
  - Place computer account in appropiate AD groups and OUs.
  - Deploy the appropiate server roles and features.
  - Automate running the IISCRYPTO tool.
+
+# Python
+
+I am currently taking a Python course. I have nothing to share here yet, but I will be putting things here beginning 2024.
