@@ -21,7 +21,6 @@
                 #Phone Service
                 #Printer Extenstions and Notifications
                 #Radio Management Service
-            #Disable IPv6
             #Place computer account in appropiate AD groups and OUs.
         #Like to haves
             #IISCRYPTO.
